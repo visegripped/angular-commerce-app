@@ -1,0 +1,1327 @@
+{
+    "_shards": {
+        "failed": 0,
+        "successful": 1,
+        "total": 1
+    },
+    "_uuid": 3340,
+    "_count": 11,
+    "took": 18,
+    "hits": {
+        "hits": [
+            {
+                "_source": {
+                    "profile": "DEFAULT",
+                    "options": [
+                        "Select Women's Size",
+                        "Select Women's Size Small",
+                        "Select Women's Size Medium",
+                        "Select Women's Size Large",
+                        "Select Women's Size X-Large",
+                        "Select Women's Size XX-Large"
+                    ],
+                    "prod_mfgid": "KSL4-0565-7T-AYG",
+                    "app_nfl": "green_bay_packers",
+                    "zoovy:prod_supplier": "VLFSG1",
+                    "pid": "KSL4-0565-7T-AYG",
+                    "prod_condition": "New",
+                    "skus": [
+                        "KSL4-0565-7T-AYG:AY02",
+                        "KSL4-0565-7T-AYG:AY03",
+                        "KSL4-0565-7T-AYG:AY04",
+                        "KSL4-0565-7T-AYG:AY05",
+                        "KSL4-0565-7T-AYG:AY06"
+                    ],
+                    "base_price": 2495,
+                    "prod_mfg": "Majestic",
+                    "marketplaces": [
+                        "EBF_off",
+                        "SRS_off",
+                        "AMZ_off",
+                        "GOO_on",
+                        "PGR_off",
+                        "BZR_off",
+                        "SHO_off",
+                        "OAS_null",
+                        "BIN_on",
+                        "BUY_null",
+                        "BST_on",
+                        "WSH_on",
+                        "NXT_off",
+                        "APA_null",
+                        "HSN_on",
+                        "SMT_null",
+                        "BCM_null",
+                        "PTO_null",
+                        "FND_on",
+                        "DOB_null",
+                        "CJ_on",
+                        "DIJ_null",
+                        "LNK_null",
+                        "IMS_null",
+                        "IOF_null",
+                        "SAS_null",
+                        "EGG_null",
+                        "ARP_on",
+                        "US1_on",
+                        "US2_on",
+                        "US3_on",
+                        "US4_on",
+                        "US5_on",
+                        "US6_on",
+                        "AUK_on",
+                        "ACN_on",
+                        "ADE_on",
+                        "AFR_on",
+                        "AIT_on",
+                        "AJP_on",
+                        "AUK_on"
+                    ],
+                    "images": [
+                        "nfl/Green_Bay_Packers_Forward_Progress_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Forward_Progress_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Forward_Progress_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Forward_Progress_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Forward_Progress_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Forward_Progress_III_Tee_by_Majestic_0565"
+                    ],
+                    "prod_name": "Green Bay Packers Forward Progress III Tee by Majestic",
+                    "app_department": "t_shirt",
+                    "in_store": "2",
+                    "pogs": [
+                        "AY",
+                        "AY02",
+                        "AY03",
+                        "AY04",
+                        "AY05",
+                        "AY06"
+                    ],
+                    "app_brands": "majestic_athletic",
+                    "amz:prod_desc": "Ladies, show off your favorite team with the Green Bay Packers Forward Progress III Tee by Majestic!    === Features: === * Feminine Cut, Fits Extra Slim * 100% Cotton * Lightweight ribbed T-shirt * Screen print graphics * Rib-knit collar * Machine washable * Officially licensed NFL product * By Majestic",
+                    "app_prod_demographic": "women",
+                    "description": "Ladies, show off your favorite team with the Green Bay Packers Forward Progress III Tee by Majestic! \n\n\n=== Features: ===\n* Feminine Cut, Fits Extra Slim\n* 100% Cotton\n* Lightweight ribbed T-shirt\n* Screen print graphics\n* Rib-knit collar\n* Machine Washable\n* Officially licensed NFL product\n* By Majestic\n\n\n=== PLEASE NOTE: ===\n* All Available Sizes take 3-14 BUSINESS (Mon-Fri) Days to produce.\n* Choosing Expedited Shipping will in no way affect the production time.\n* Listed production time is an approximation and not a guarantee. \n* Shipping times may be longer or shorter depending on order volume.\n* Image is a graphical preview of what the item will look like. \n* No changes or cancellations will be allowed once an order has been placed.\n* This Item is Considered a Customization and all Sales Final on Customized Items.",
+                    "tags": [
+                        "IS_USER3"
+                    ],
+                    "salesrank": "20140802",
+                    "app_t_shirts": "short_sleeve"
+                },
+                "_score": 1,
+                "_index": "cubworld.public",
+                "_id": "KSL4-0565-7T-AYG",
+                "_type": "product"
+            },
+            {
+                "_source": {
+                    "profile": "DEFAULT",
+                    "options": [
+                        "Select Size",
+                        "Select Size Small",
+                        "Select Size Medium",
+                        "Select Size Large",
+                        "Select Size X-Large",
+                        "Select Size XX-Large"
+                    ],
+                    "prod_mfgid": "K952-0565-7TF-3OO",
+                    "app_nfl": "green_bay_packers",
+                    "zoovy:prod_supplier": "VLFSG1",
+                    "pid": "K952-0565-7TF-3OO",
+                    "prod_condition": "New",
+                    "skus": [
+                        "K952-0565-7TF-3OO:AB00",
+                        "K952-0565-7TF-3OO:AB01",
+                        "K952-0565-7TF-3OO:AB02",
+                        "K952-0565-7TF-3OO:AB03",
+                        "K952-0565-7TF-3OO:AB04"
+                    ],
+                    "base_price": 3195,
+                    "prod_mfg": "Majestic",
+                    "marketplaces": [
+                        "EBF_off",
+                        "SRS_off",
+                        "AMZ_off",
+                        "GOO_on",
+                        "PGR_off",
+                        "BZR_off",
+                        "SHO_off",
+                        "OAS_null",
+                        "BIN_on",
+                        "BUY_null",
+                        "BST_on",
+                        "WSH_on",
+                        "NXT_off",
+                        "APA_null",
+                        "HSN_on",
+                        "SMT_null",
+                        "BCM_null",
+                        "PTO_null",
+                        "FND_on",
+                        "DOB_null",
+                        "CJ_on",
+                        "DIJ_null",
+                        "LNK_null",
+                        "IMS_null",
+                        "IOF_null",
+                        "SAS_null",
+                        "EGG_null",
+                        "ARP_on",
+                        "US1_on",
+                        "US2_on",
+                        "US3_on",
+                        "US4_on",
+                        "US5_on",
+                        "US6_on",
+                        "AUK_on",
+                        "ACN_on",
+                        "ADE_on",
+                        "AFR_on",
+                        "AIT_on",
+                        "AJP_on",
+                        "AUK_on"
+                    ],
+                    "images": [
+                        "nfl/Green_Bay_Packers_Eddie_Lacy_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Eddie_Lacy_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Eddie_Lacy_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Eddie_Lacy_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Eddie_Lacy_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Eddie_Lacy_Eligible_Receiver_II_Tee_by_Majestic_0565"
+                    ],
+                    "prod_name": "Green Bay Packers Eddie Lacy Eligible Receiver II Tee by Majestic",
+                    "app_department": "t_shirt",
+                    "in_store": "2",
+                    "pogs": [
+                        "AB",
+                        "AB00",
+                        "AB01",
+                        "AB02",
+                        "AB03",
+                        "AB04"
+                    ],
+                    "app_brands": "majestic_athletic",
+                    "amz:prod_desc": "Let everyone know who your favorite player is with the Green Bay Packers Eddie Lacy Eligible Receiver II Tee by Majestic!Features:  * 100% Cotton * Player name and number on back * Lightweight ribbed T-shirt * Screen print graphics * Rib-knit collar * Machine washable * Officially licensed NFL product * By Majestic",
+                    "app_prod_demographic": "men",
+                    "description": "Let everyone know who your favorite player is with the Green Bay Packers Eddie Lacy Eligible Receiver II Tee by Majestic! \n\n\n=== Features: ===\n* 100% Cotton\n* Player name and number on back\n* Lightweight ribbed T-shirt\n* Screen print graphics\n* Rib-knit collar\n* Machine Washable\n* Officially licensed NFL product\n* By Majestic\n\n\n=== PLEASE NOTE: ===\n* All Available Sizes take 3-14 BUSINESS (Mon-Fri) Days to produce.\n* Choosing Expedited Shipping will in no way affect the production time.\n* Listed production time is an approximation and not a guarantee. \n* Shipping times may be longer or shorter depending on order volume.\n* Image is a graphical preview of what the item will look like. \n* No changes or cancellations will be allowed once an order has been placed.\n* This Item is Considered a Customization and all Sales Final on Customized Items.",
+                    "tags": [
+                        "IS_USER3"
+                    ],
+                    "salesrank": "20140801",
+                    "app_t_shirts": "short_sleeve"
+                },
+                "_score": 1,
+                "_index": "cubworld.public",
+                "_id": "K952-0565-7TF-3OO",
+                "_type": "product"
+            },
+            {
+                "_source": {
+                    "profile": "DEFAULT",
+                    "options": [
+                        "Select Size",
+                        "Select Size Small",
+                        "Select Size Medium",
+                        "Select Size Large",
+                        "Select Size X-Large",
+                        "Select Size XX-Large"
+                    ],
+                    "prod_mfgid": "K952-0565-7T-AUO",
+                    "app_nfl": "green_bay_packers",
+                    "zoovy:prod_supplier": "VLFSG1",
+                    "pid": "K952-0565-7T-AUO",
+                    "prod_condition": "New",
+                    "skus": [
+                        "K952-0565-7T-AUO:AB00",
+                        "K952-0565-7T-AUO:AB01",
+                        "K952-0565-7T-AUO:AB02",
+                        "K952-0565-7T-AUO:AB03",
+                        "K952-0565-7T-AUO:AB04"
+                    ],
+                    "base_price": 2495,
+                    "prod_mfg": "Majestic",
+                    "marketplaces": [
+                        "EBF_off",
+                        "SRS_off",
+                        "AMZ_off",
+                        "GOO_on",
+                        "PGR_off",
+                        "BZR_off",
+                        "SHO_off",
+                        "OAS_null",
+                        "BIN_on",
+                        "BUY_null",
+                        "BST_on",
+                        "WSH_on",
+                        "NXT_off",
+                        "APA_null",
+                        "HSN_on",
+                        "SMT_null",
+                        "BCM_null",
+                        "PTO_null",
+                        "FND_on",
+                        "DOB_null",
+                        "CJ_on",
+                        "DIJ_null",
+                        "LNK_null",
+                        "IMS_null",
+                        "IOF_null",
+                        "SAS_null",
+                        "EGG_null",
+                        "ARP_on",
+                        "US1_on",
+                        "US2_on",
+                        "US3_on",
+                        "US4_on",
+                        "US5_on",
+                        "US6_on",
+                        "AUK_on",
+                        "ACN_on",
+                        "ADE_on",
+                        "AFR_on",
+                        "AIT_on",
+                        "AJP_on",
+                        "AUK_on"
+                    ],
+                    "images": [
+                        "nfl/Green_Bay_Packers_Heart_And_Soul_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Heart_And_Soul_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Heart_And_Soul_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Heart_And_Soul_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Heart_And_Soul_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Heart_And_Soul_III_Tee_by_Majestic_0565"
+                    ],
+                    "prod_name": "Green Bay Packers Heart And Soul III Tee by Majestic",
+                    "app_department": "t_shirt",
+                    "in_store": "2",
+                    "pogs": [
+                        "AB",
+                        "AB00",
+                        "AB01",
+                        "AB02",
+                        "AB03",
+                        "AB04"
+                    ],
+                    "app_brands": "majestic_athletic",
+                    "amz:prod_desc": "Show who is you favorite team with the Green Bay Packers Heart And Soul III Tee by Majestic!    === Features: === * 100% Cotton * Lightweight ribbed T-shirt * Screen print graphics * Rib-knit collar * Machine washable * Officially licensed NFL product * By Majestic",
+                    "app_prod_demographic": "men",
+                    "description": "Show who is you favorite team with the Green Bay Packers Heart And Soul III Tee by Majestic! \n\n\n=== Features: ===\n* 100% Cotton\n* Lightweight ribbed T-shirt\n* Screen print graphics\n* Rib-knit collar\n* Machine Washable\n* Officially licensed NFL product\n* By Majestic\n\n\n=== PLEASE NOTE: ===\n* All Available Sizes take 3-14 BUSINESS (Mon-Fri) Days to produce.\n* Choosing Expedited Shipping will in no way affect the production time.\n* Listed production time is an approximation and not a guarantee. \n* Shipping times may be longer or shorter depending on order volume.\n* Image is a graphical preview of what the item will look like. \n* No changes or cancellations will be allowed once an order has been placed.\n* This Item is Considered a Customization and all Sales Final on Customized Items.",
+                    "tags": [
+                        "IS_USER3"
+                    ],
+                    "salesrank": "20140803",
+                    "app_t_shirts": "short_sleeve"
+                },
+                "_score": 1,
+                "_index": "cubworld.public",
+                "_id": "K952-0565-7T-AUO",
+                "_type": "product"
+            },
+            {
+                "_source": {
+                    "profile": "DEFAULT",
+                    "options": [
+                        "Select Size",
+                        "Select Size Small",
+                        "Select Size Medium",
+                        "Select Size Large",
+                        "Select Size X-Large",
+                        "Select Size XX-Large"
+                    ],
+                    "prod_mfgid": "K952-0565-7TF-3OF",
+                    "app_nfl": "green_bay_packers",
+                    "zoovy:prod_supplier": "VLFSG1",
+                    "pid": "K952-0565-7TF-3OF",
+                    "prod_condition": "New",
+                    "skus": [
+                        "K952-0565-7TF-3OF:AB00",
+                        "K952-0565-7TF-3OF:AB01",
+                        "K952-0565-7TF-3OF:AB02",
+                        "K952-0565-7TF-3OF:AB03",
+                        "K952-0565-7TF-3OF:AB04"
+                    ],
+                    "base_price": 3195,
+                    "prod_mfg": "Majestic",
+                    "marketplaces": [
+                        "EBF_off",
+                        "SRS_off",
+                        "AMZ_off",
+                        "GOO_on",
+                        "PGR_off",
+                        "BZR_off",
+                        "SHO_off",
+                        "OAS_null",
+                        "BIN_on",
+                        "BUY_null",
+                        "BST_on",
+                        "WSH_on",
+                        "NXT_off",
+                        "APA_null",
+                        "HSN_on",
+                        "SMT_null",
+                        "BCM_null",
+                        "PTO_null",
+                        "FND_on",
+                        "DOB_null",
+                        "CJ_on",
+                        "DIJ_null",
+                        "LNK_null",
+                        "IMS_null",
+                        "IOF_null",
+                        "SAS_null",
+                        "EGG_null",
+                        "ARP_on",
+                        "US1_on",
+                        "US2_on",
+                        "US3_on",
+                        "US4_on",
+                        "US5_on",
+                        "US6_on",
+                        "AUK_on",
+                        "ACN_on",
+                        "ADE_on",
+                        "AFR_on",
+                        "AIT_on",
+                        "AJP_on",
+                        "AUK_on"
+                    ],
+                    "images": [
+                        "nfl/Green_Bay_Packers_Aaron_Rodgers_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Aaron_Rodgers_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Aaron_Rodgers_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Aaron_Rodgers_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Aaron_Rodgers_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Aaron_Rodgers_Eligible_Receiver_II_Tee_by_Majestic_0565"
+                    ],
+                    "prod_name": "Green Bay Packers Aaron Rodgers Eligible Receiver II Tee by Majestic",
+                    "app_department": "t_shirt",
+                    "in_store": "2",
+                    "pogs": [
+                        "AB",
+                        "AB00",
+                        "AB01",
+                        "AB02",
+                        "AB03",
+                        "AB04"
+                    ],
+                    "app_brands": "majestic_athletic",
+                    "amz:prod_desc": "Let everyone know who your favorite player is with the Green Bay Packers Aaron Rodgers Eligible Receiver II Tee by Majestic!    === Features: === * 100% Cotton * Player name and number on back * Lightweight ribbed T-shirt * Screen print graphics * Rib-knit collar * Machine washable * Officially licensed NFL product * By Majestic",
+                    "app_prod_demographic": "men",
+                    "description": "Let everyone know who your favorite player is with the Green Bay Packers Aaron Rodgers Eligible Receiver II Tee by Majestic! \n\n\n=== Features: ===\n* 100% Cotton\n* Player name and number on back\n* Lightweight ribbed T-shirt\n* Screen print graphics\n* Rib-knit collar\n* Machine Washable\n* Officially licensed NFL product\n* By Majestic\n\n\n=== PLEASE NOTE: ===\n* All Available Sizes take 3-14 BUSINESS (Mon-Fri) Days to produce.\n* Choosing Expedited Shipping will in no way affect the production time.\n* Listed production time is an approximation and not a guarantee. \n* Shipping times may be longer or shorter depending on order volume.\n* Image is a graphical preview of what the item will look like. \n* No changes or cancellations will be allowed once an order has been placed.\n* This Item is Considered a Customization and all Sales Final on Customized Items.",
+                    "tags": [
+                        "IS_USER3"
+                    ],
+                    "salesrank": "20140801",
+                    "app_t_shirts": "short_sleeve"
+                },
+                "_score": 1,
+                "_index": "cubworld.public",
+                "_id": "K952-0565-7TF-3OF",
+                "_type": "product"
+            },
+            {
+                "_source": {
+                    "profile": "DEFAULT",
+                    "options": [
+                        "Select Size",
+                        "Select Size Small",
+                        "Select Size Medium",
+                        "Select Size Large",
+                        "Select Size X-Large",
+                        "Select Size XX-Large"
+                    ],
+                    "prod_mfgid": "K952-0599-7T-ASV",
+                    "app_nfl": "green_bay_packers",
+                    "zoovy:prod_supplier": "VLFSG1",
+                    "pid": "K952-0599-7T-ASV",
+                    "prod_condition": "New",
+                    "skus": [
+                        "K952-0599-7T-ASV:AB00",
+                        "K952-0599-7T-ASV:AB01",
+                        "K952-0599-7T-ASV:AB02",
+                        "K952-0599-7T-ASV:AB03",
+                        "K952-0599-7T-ASV:AB04"
+                    ],
+                    "base_price": 2495,
+                    "prod_mfg": "Majestic",
+                    "marketplaces": [
+                        "EBF_off",
+                        "SRS_off",
+                        "AMZ_off",
+                        "GOO_on",
+                        "PGR_off",
+                        "BZR_off",
+                        "SHO_off",
+                        "OAS_null",
+                        "BIN_on",
+                        "BUY_null",
+                        "BST_on",
+                        "WSH_on",
+                        "NXT_off",
+                        "APA_null",
+                        "HSN_on",
+                        "SMT_null",
+                        "BCM_null",
+                        "PTO_null",
+                        "FND_on",
+                        "DOB_null",
+                        "CJ_on",
+                        "DIJ_null",
+                        "LNK_null",
+                        "IMS_null",
+                        "IOF_null",
+                        "SAS_null",
+                        "EGG_null",
+                        "ARP_on",
+                        "US1_on",
+                        "US2_on",
+                        "US3_on",
+                        "US4_on",
+                        "US5_on",
+                        "US6_on",
+                        "AUK_on",
+                        "ACN_on",
+                        "ADE_on",
+                        "AFR_on",
+                        "AIT_on",
+                        "AJP_on",
+                        "AUK_on"
+                    ],
+                    "images": [
+                        "nfl/Green_Bay_Packers_Critical_Victory_VIII_Tee_by_Majestic_0599",
+                        "nfl/Green_Bay_Packers_Critical_Victory_VIII_Tee_by_Majestic_0599",
+                        "nfl/Green_Bay_Packers_Critical_Victory_VIII_Tee_by_Majestic_0599",
+                        "nfl/Green_Bay_Packers_Critical_Victory_VIII_Tee_by_Majestic_0599",
+                        "nfl/Green_Bay_Packers_Critical_Victory_VIII_Tee_by_Majestic_0599",
+                        "nfl/Green_Bay_Packers_Critical_Victory_VIII_Tee_by_Majestic_0599"
+                    ],
+                    "prod_name": "Green Bay Packers Critical Victory VIII Tee by Majestic",
+                    "app_department": "t_shirt",
+                    "in_store": "2",
+                    "pogs": [
+                        "AB",
+                        "AB00",
+                        "AB01",
+                        "AB02",
+                        "AB03",
+                        "AB04"
+                    ],
+                    "app_brands": "majestic_athletic",
+                    "amz:prod_desc": "Show who is you favorite team with the Green Bay Packers Critical Victory VIII Tee by Majestic!    === Features: === * 100% Cotton * Lightweight ribbed T-shirt * Screen print graphics * Rib-knit collar * Machine washable * Officially licensed NFL product * By Majestic",
+                    "app_prod_demographic": "men",
+                    "description": "Show who is you favorite team with the Green Bay Packers Critical Victory VIII Tee by Majestic! \n\n\n=== Features: ===\n* 100% Cotton\n* Lightweight ribbed T-shirt\n* Screen print graphics\n* Rib-knit collar\n* Machine Washable\n* Officially licensed NFL product\n* By Majestic\n\n\n=== PLEASE NOTE: ===\n* All Available Sizes take 3-14 BUSINESS (Mon-Fri) Days to produce.\n* Choosing Expedited Shipping will in no way affect the production time.\n* Listed production time is an approximation and not a guarantee. \n* Shipping times may be longer or shorter depending on order volume.\n* Image is a graphical preview of what the item will look like. \n* No changes or cancellations will be allowed once an order has been placed.\n* This Item is Considered a Customization and all Sales Final on Customized Items.",
+                    "tags": [
+                        "IS_USER3"
+                    ],
+                    "salesrank": "20140803",
+                    "app_t_shirts": "short_sleeve"
+                },
+                "_score": 1,
+                "_index": "cubworld.public",
+                "_id": "K952-0599-7T-ASV",
+                "_type": "product"
+            },
+            {
+                "_source": {
+                    "profile": "DEFAULT",
+                    "options": [
+                        "Select Size",
+                        "Select Size Small",
+                        "Select Size Medium",
+                        "Select Size Large",
+                        "Select Size X-Large",
+                        "Select Size XX-Large"
+                    ],
+                    "prod_mfgid": "K952-0565-7TF-3ON",
+                    "app_nfl": "green_bay_packers",
+                    "zoovy:prod_supplier": "VLFSG1",
+                    "pid": "K952-0565-7TF-3ON",
+                    "prod_condition": "New",
+                    "skus": [
+                        "K952-0565-7TF-3ON:AB00",
+                        "K952-0565-7TF-3ON:AB01",
+                        "K952-0565-7TF-3ON:AB02",
+                        "K952-0565-7TF-3ON:AB03",
+                        "K952-0565-7TF-3ON:AB04"
+                    ],
+                    "base_price": 3195,
+                    "prod_mfg": "Majestic",
+                    "marketplaces": [
+                        "EBF_off",
+                        "SRS_off",
+                        "AMZ_off",
+                        "GOO_on",
+                        "PGR_off",
+                        "BZR_off",
+                        "SHO_off",
+                        "OAS_null",
+                        "BIN_on",
+                        "BUY_null",
+                        "BST_on",
+                        "WSH_on",
+                        "NXT_off",
+                        "APA_null",
+                        "HSN_on",
+                        "SMT_null",
+                        "BCM_null",
+                        "PTO_null",
+                        "FND_on",
+                        "DOB_null",
+                        "CJ_on",
+                        "DIJ_null",
+                        "LNK_null",
+                        "IMS_null",
+                        "IOF_null",
+                        "SAS_null",
+                        "EGG_null",
+                        "ARP_on",
+                        "US1_on",
+                        "US2_on",
+                        "US3_on",
+                        "US4_on",
+                        "US5_on",
+                        "US6_on",
+                        "AUK_on",
+                        "ACN_on",
+                        "ADE_on",
+                        "AFR_on",
+                        "AIT_on",
+                        "AJP_on",
+                        "AUK_on"
+                    ],
+                    "images": [
+                        "nfl/Green_Bay_Packers_Jordy_Nelson_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Jordy_Nelson_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Jordy_Nelson_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Jordy_Nelson_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Jordy_Nelson_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Jordy_Nelson_Eligible_Receiver_II_Tee_by_Majestic_0565"
+                    ],
+                    "prod_name": "Green Bay Packers Jordy Nelson Eligible Receiver II Tee by Majestic",
+                    "app_department": "t_shirt",
+                    "in_store": "2",
+                    "pogs": [
+                        "AB",
+                        "AB00",
+                        "AB01",
+                        "AB02",
+                        "AB03",
+                        "AB04"
+                    ],
+                    "app_brands": "majestic_athletic",
+                    "amz:prod_desc": "Let everyone know who your favorite player is with the Green Bay Packers Jordy Nelson Eligible Receiver II Tee by Majestic!Features:  * 100% Cotton * Player name and number on back * Lightweight ribbed T-shirt * Screen print graphics * Rib-knit collar * Machine washable * Officially licensed NFL product * By Majestic",
+                    "app_prod_demographic": "men",
+                    "description": "Let everyone know who your favorite player is with the Green Bay Packers Jordy Nelson Eligible Receiver II Tee by Majestic! \n\n\n=== Features: ===\n* 100% Cotton\n* Player name and number on back\n* Lightweight ribbed T-shirt\n* Screen print graphics\n* Rib-knit collar\n* Machine Washable\n* Officially licensed NFL product\n* By Majestic\n\n\n=== PLEASE NOTE: ===\n* All Available Sizes take 3-14 BUSINESS (Mon-Fri) Days to produce.\n* Choosing Expedited Shipping will in no way affect the production time.\n* Listed production time is an approximation and not a guarantee. \n* Shipping times may be longer or shorter depending on order volume.\n* Image is a graphical preview of what the item will look like. \n* No changes or cancellations will be allowed once an order has been placed.\n* This Item is Considered a Customization and all Sales Final on Customized Items.",
+                    "tags": [
+                        "IS_USER3"
+                    ],
+                    "salesrank": "20140801",
+                    "app_t_shirts": "short_sleeve"
+                },
+                "_score": 1,
+                "_index": "cubworld.public",
+                "_id": "K952-0565-7TF-3ON",
+                "_type": "product"
+            },
+            {
+                "_source": {
+                    "profile": "DEFAULT",
+                    "options": [
+                        "Select Size",
+                        "Select Size Small",
+                        "Select Size Medium",
+                        "Select Size Large",
+                        "Select Size X-Large",
+                        "Select Size XX-Large"
+                    ],
+                    "prod_mfgid": "KTP2-0565-7T-AVW",
+                    "app_nfl": "green_bay_packers",
+                    "zoovy:prod_supplier": "VLFSG1",
+                    "pid": "KTP2-0565-7T-AVW",
+                    "prod_condition": "New",
+                    "skus": [
+                        "KTP2-0565-7T-AVW:AB00",
+                        "KTP2-0565-7T-AVW:AB01",
+                        "KTP2-0565-7T-AVW:AB02",
+                        "KTP2-0565-7T-AVW:AB03",
+                        "KTP2-0565-7T-AVW:AB04"
+                    ],
+                    "base_price": 2795,
+                    "prod_mfg": "Majestic",
+                    "marketplaces": [
+                        "EBF_off",
+                        "SRS_off",
+                        "AMZ_off",
+                        "GOO_on",
+                        "PGR_off",
+                        "BZR_off",
+                        "SHO_off",
+                        "OAS_null",
+                        "BIN_on",
+                        "BUY_null",
+                        "BST_on",
+                        "WSH_on",
+                        "NXT_off",
+                        "APA_null",
+                        "HSN_on",
+                        "SMT_null",
+                        "BCM_null",
+                        "PTO_null",
+                        "FND_on",
+                        "DOB_null",
+                        "CJ_on",
+                        "DIJ_null",
+                        "LNK_null",
+                        "IMS_null",
+                        "IOF_null",
+                        "SAS_null",
+                        "EGG_null",
+                        "ARP_on",
+                        "US1_on",
+                        "US2_on",
+                        "US3_on",
+                        "US4_on",
+                        "US5_on",
+                        "US6_on",
+                        "AUK_on",
+                        "ACN_on",
+                        "ADE_on",
+                        "AFR_on",
+                        "AIT_on",
+                        "AJP_on",
+                        "AUK_on"
+                    ],
+                    "images": [
+                        "nfl/Green_Bay_Packers_Line_To_Gain_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Line_To_Gain_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Line_To_Gain_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Line_To_Gain_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Line_To_Gain_III_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Line_To_Gain_III_Tee_by_Majestic_0565"
+                    ],
+                    "prod_name": "Green Bay Packers Line To Gain III Tee by Majestic",
+                    "app_department": "t_shirt",
+                    "in_store": "2",
+                    "pogs": [
+                        "AB",
+                        "AB00",
+                        "AB01",
+                        "AB02",
+                        "AB03",
+                        "AB04"
+                    ],
+                    "app_brands": "majestic_athletic",
+                    "amz:prod_desc": "Show who is you favorite team with the Green Bay Packers Line To Gain III Tee by Majestic!Features:  * 100% Cotton * Lightweight ribbed T-shirt * Screen print graphics * Rib-knit collar * Machine washable * Officially licensed NFL product * By Majestic",
+                    "app_prod_demographic": "men",
+                    "description": "Show who is you favorite team with the Green Bay Packers Line To Gain III Tee by Majestic! \n\n\n=== Features: ===\n* 100% Cotton\n* Lightweight ribbed T-shirt\n* Screen print graphics\n* Rib-knit collar\n* Machine Washable\n* Officially licensed NFL product\n* By Majestic\n\n\n=== PLEASE NOTE: ===\n* All Available Sizes take 3-14 BUSINESS (Mon-Fri) Days to produce.\n* Choosing Expedited Shipping will in no way affect the production time.\n* Listed production time is an approximation and not a guarantee. \n* Shipping times may be longer or shorter depending on order volume.\n* Image is a graphical preview of what the item will look like. \n* No changes or cancellations will be allowed once an order has been placed.\n* This Item is Considered a Customization and all Sales Final on Customized Items.",
+                    "tags": [
+                        "IS_USER3"
+                    ],
+                    "salesrank": "20140803",
+                    "app_t_shirts": "short_sleeve"
+                },
+                "_score": 1,
+                "_index": "cubworld.public",
+                "_id": "KTP2-0565-7T-AVW",
+                "_type": "product"
+            },
+            {
+                "_source": {
+                    "profile": "DEFAULT",
+                    "options": [
+                        "Select Women's Size",
+                        "Select Women's Size Small",
+                        "Select Women's Size Medium",
+                        "Select Women's Size Large",
+                        "Select Women's Size X-Large",
+                        "Select Women's Size XX-Large"
+                    ],
+                    "prod_mfgid": "KCFE-2952-7T-AYW",
+                    "app_nfl": "green_bay_packers",
+                    "zoovy:prod_supplier": "VLFSG1",
+                    "pid": "KCFE-2952-7T-AYW",
+                    "prod_condition": "New",
+                    "skus": [
+                        "KCFE-2952-7T-AYW:AY02",
+                        "KCFE-2952-7T-AYW:AY03",
+                        "KCFE-2952-7T-AYW:AY04",
+                        "KCFE-2952-7T-AYW:AY05",
+                        "KCFE-2952-7T-AYW:AY06"
+                    ],
+                    "base_price": 2795,
+                    "prod_mfg": "Majestic",
+                    "marketplaces": [
+                        "EBF_off",
+                        "SRS_off",
+                        "AMZ_off",
+                        "GOO_on",
+                        "PGR_off",
+                        "BZR_off",
+                        "SHO_off",
+                        "OAS_null",
+                        "BIN_on",
+                        "BUY_null",
+                        "BST_on",
+                        "WSH_on",
+                        "NXT_off",
+                        "APA_null",
+                        "HSN_on",
+                        "SMT_null",
+                        "BCM_null",
+                        "PTO_null",
+                        "FND_on",
+                        "DOB_null",
+                        "CJ_on",
+                        "DIJ_null",
+                        "LNK_null",
+                        "IMS_null",
+                        "IOF_null",
+                        "SAS_null",
+                        "EGG_null",
+                        "ARP_on",
+                        "US1_on",
+                        "US2_on",
+                        "US3_on",
+                        "US4_on",
+                        "US5_on",
+                        "US6_on",
+                        "AUK_on",
+                        "ACN_on",
+                        "ADE_on",
+                        "AFR_on",
+                        "AIT_on",
+                        "AJP_on",
+                        "AUK_on"
+                    ],
+                    "images": [
+                        "nfl/Green_Bay_Packers_Go_For_Two_IV_Raglan_Tee_by_Majestic_2952",
+                        "nfl/Green_Bay_Packers_Go_For_Two_IV_Raglan_Tee_by_Majestic_2952",
+                        "nfl/Green_Bay_Packers_Go_For_Two_IV_Raglan_Tee_by_Majestic_2952",
+                        "nfl/Green_Bay_Packers_Go_For_Two_IV_Raglan_Tee_by_Majestic_2952",
+                        "nfl/Green_Bay_Packers_Go_For_Two_IV_Raglan_Tee_by_Majestic_2952",
+                        "nfl/Green_Bay_Packers_Go_For_Two_IV_Raglan_Tee_by_Majestic_2952"
+                    ],
+                    "prod_name": "Green Bay Packers Go For Two IV Raglan Tee by Majestic",
+                    "app_department": "t_shirt",
+                    "in_store": "2",
+                    "pogs": [
+                        "AY",
+                        "AY02",
+                        "AY03",
+                        "AY04",
+                        "AY05",
+                        "AY06"
+                    ],
+                    "app_brands": "majestic_athletic",
+                    "amz:prod_desc": "Ladies, show off your favorite team with the Green Bay Packers Go For Two IV Raglan Tee by Majestic!    === Features: === * Raglan V-Neck Tee * Feminine Cut, Fits Extra Slim * 100% Cotton * Lightweight ribbed T-shirt * Screen print graphics * Rib-knit collar * Machine washable * Officially licensed NFL product * By Majestic",
+                    "app_prod_demographic": "women",
+                    "description": "Ladies, show off your favorite team with the Green Bay Packers Go For Two IV Raglan Tee by Majestic! \n\n\n=== Features: ===\n* Raglan V-Neck Tee\n* Feminine Cut, Fits Extra Slim\n* 100% Cotton\n* Lightweight ribbed T-shirt\n* Screen print graphics\n* Rib-knit collar\n* Machine Washable\n* Officially licensed NFL product\n* By Majestic\n\n\n=== PLEASE NOTE: ===\n* All Available Sizes take 3-14 BUSINESS (Mon-Fri) Days to produce.\n* Choosing Expedited Shipping will in no way affect the production time.\n* Listed production time is an approximation and not a guarantee. \n* Shipping times may be longer or shorter depending on order volume.\n* Image is a graphical preview of what the item will look like. \n* No changes or cancellations will be allowed once an order has been placed.\n* This Item is Considered a Customization and all Sales Final on Customized Items.",
+                    "tags": [
+                        "IS_USER3"
+                    ],
+                    "salesrank": "20140802",
+                    "app_t_shirts": "short_sleeve"
+                },
+                "_score": 1,
+                "_index": "cubworld.public",
+                "_id": "KCFE-2952-7T-AYW",
+                "_type": "product"
+            },
+            {
+                "_source": {
+                    "profile": "DEFAULT",
+                    "options": [
+                        "Select Size",
+                        "Select Size Small",
+                        "Select Size Medium",
+                        "Select Size Large",
+                        "Select Size X-Large",
+                        "Select Size XX-Large"
+                    ],
+                    "prod_mfgid": "K952-0565-7TF-3OG",
+                    "app_nfl": "green_bay_packers",
+                    "zoovy:prod_supplier": "VLFSG1",
+                    "pid": "K952-0565-7TF-3OG",
+                    "prod_condition": "New",
+                    "skus": [
+                        "K952-0565-7TF-3OG:AB00",
+                        "K952-0565-7TF-3OG:AB01",
+                        "K952-0565-7TF-3OG:AB02",
+                        "K952-0565-7TF-3OG:AB03",
+                        "K952-0565-7TF-3OG:AB04"
+                    ],
+                    "base_price": 3195,
+                    "prod_mfg": "Majestic",
+                    "marketplaces": [
+                        "EBF_off",
+                        "SRS_off",
+                        "AMZ_off",
+                        "GOO_on",
+                        "PGR_off",
+                        "BZR_off",
+                        "SHO_off",
+                        "OAS_null",
+                        "BIN_on",
+                        "BUY_null",
+                        "BST_on",
+                        "WSH_on",
+                        "NXT_off",
+                        "APA_null",
+                        "HSN_on",
+                        "SMT_null",
+                        "BCM_null",
+                        "PTO_null",
+                        "FND_on",
+                        "DOB_null",
+                        "CJ_on",
+                        "DIJ_null",
+                        "LNK_null",
+                        "IMS_null",
+                        "IOF_null",
+                        "SAS_null",
+                        "EGG_null",
+                        "ARP_on",
+                        "US1_on",
+                        "US2_on",
+                        "US3_on",
+                        "US4_on",
+                        "US5_on",
+                        "US6_on",
+                        "AUK_on",
+                        "ACN_on",
+                        "ADE_on",
+                        "AFR_on",
+                        "AIT_on",
+                        "AJP_on",
+                        "AUK_on"
+                    ],
+                    "images": [
+                        "nfl/Green_Bay_Packers_Clay_Matthews_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Clay_Matthews_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Clay_Matthews_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Clay_Matthews_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Clay_Matthews_Eligible_Receiver_II_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Clay_Matthews_Eligible_Receiver_II_Tee_by_Majestic_0565"
+                    ],
+                    "prod_name": "Green Bay Packers Clay Matthews Eligible Receiver II Tee by Majestic",
+                    "app_department": "t_shirt",
+                    "in_store": "2",
+                    "pogs": [
+                        "AB",
+                        "AB00",
+                        "AB01",
+                        "AB02",
+                        "AB03",
+                        "AB04"
+                    ],
+                    "app_brands": "majestic_athletic",
+                    "amz:prod_desc": "Let everyone know who your favorite player is with the Green Bay Packers Clay Matthews Eligible Receiver II Tee by Majestic!    === Features: === * 100% Cotton * Player name and number on back * Lightweight ribbed T-shirt * Screen print graphics * Rib-knit collar * Machine washable * Officially licensed NFL product * By Majestic",
+                    "app_prod_demographic": "men",
+                    "description": "Let everyone know who your favorite player is with the Green Bay Packers Clay Matthews Eligible Receiver II Tee by Majestic! \n\n\n=== Features: ===\n* 100% Cotton\n* Player name and number on back\n* Lightweight ribbed T-shirt\n* Screen print graphics\n* Rib-knit collar\n* Machine Washable\n* Officially licensed NFL product\n* By Majestic\n\n\n=== PLEASE NOTE: ===\n* All Available Sizes take 3-14 BUSINESS (Mon-Fri) Days to produce.\n* Choosing Expedited Shipping will in no way affect the production time.\n* Listed production time is an approximation and not a guarantee. \n* Shipping times may be longer or shorter depending on order volume.\n* Image is a graphical preview of what the item will look like. \n* No changes or cancellations will be allowed once an order has been placed.\n* This Item is Considered a Customization and all Sales Final on Customized Items.",
+                    "tags": [
+                        "IS_USER3"
+                    ],
+                    "salesrank": "20140801",
+                    "app_t_shirts": "short_sleeve"
+                },
+                "_score": 1,
+                "_index": "cubworld.public",
+                "_id": "K952-0565-7TF-3OG",
+                "_type": "product"
+            },
+            {
+                "_source": {
+                    "profile": "DEFAULT",
+                    "options": [
+                        "Select Size",
+                        "Select Size Small",
+                        "Select Size Medium",
+                        "Select Size Large",
+                        "Select Size X-Large",
+                        "Select Size XX-Large"
+                    ],
+                    "prod_mfgid": "KTP2-259A-7T-AVV",
+                    "app_nfl": "green_bay_packers",
+                    "zoovy:prod_supplier": "VLFSG1",
+                    "pid": "KTP2-259A-7T-AVV",
+                    "prod_condition": "New",
+                    "skus": [
+                        "KTP2-259A-7T-AVV:AB00",
+                        "KTP2-259A-7T-AVV:AB01",
+                        "KTP2-259A-7T-AVV:AB02",
+                        "KTP2-259A-7T-AVV:AB03",
+                        "KTP2-259A-7T-AVV:AB04"
+                    ],
+                    "base_price": 2795,
+                    "prod_mfg": "Majestic",
+                    "marketplaces": [
+                        "EBF_off",
+                        "SRS_off",
+                        "AMZ_off",
+                        "GOO_on",
+                        "PGR_off",
+                        "BZR_off",
+                        "SHO_off",
+                        "OAS_null",
+                        "BIN_on",
+                        "BUY_null",
+                        "BST_on",
+                        "WSH_on",
+                        "NXT_off",
+                        "APA_null",
+                        "HSN_on",
+                        "SMT_null",
+                        "BCM_null",
+                        "PTO_null",
+                        "FND_on",
+                        "DOB_null",
+                        "CJ_on",
+                        "DIJ_null",
+                        "LNK_null",
+                        "IMS_null",
+                        "IOF_null",
+                        "SAS_null",
+                        "EGG_null",
+                        "ARP_on",
+                        "US1_on",
+                        "US2_on",
+                        "US3_on",
+                        "US4_on",
+                        "US5_on",
+                        "US6_on",
+                        "AUK_on",
+                        "ACN_on",
+                        "ADE_on",
+                        "AFR_on",
+                        "AIT_on",
+                        "AJP_on",
+                        "AUK_on"
+                    ],
+                    "images": [
+                        "nfl/Green_Bay_Packers_Inside_Line_IV_Tee_by_Majestic_259A",
+                        "nfl/Green_Bay_Packers_Inside_Line_IV_Tee_by_Majestic_259A",
+                        "nfl/Green_Bay_Packers_Inside_Line_IV_Tee_by_Majestic_259A",
+                        "nfl/Green_Bay_Packers_Inside_Line_IV_Tee_by_Majestic_259A",
+                        "nfl/Green_Bay_Packers_Inside_Line_IV_Tee_by_Majestic_259A",
+                        "nfl/Green_Bay_Packers_Inside_Line_IV_Tee_by_Majestic_259A"
+                    ],
+                    "prod_name": "Green Bay Packers Inside Line IV Tee by Majestic",
+                    "app_department": "t_shirt",
+                    "in_store": "2",
+                    "pogs": [
+                        "AB",
+                        "AB00",
+                        "AB01",
+                        "AB02",
+                        "AB03",
+                        "AB04"
+                    ],
+                    "app_brands": "majestic_athletic",
+                    "amz:prod_desc": "Show who is you favorite team with the Green Bay Packers Inside Line IV Tee by Majestic!    === Features: === * 100% Cotton * Lightweight ribbed T-shirt * Screen print graphics * Rib-knit collar * Machine washable * Officially licensed NFL product * By Majestic",
+                    "app_prod_demographic": "men",
+                    "description": "Show who is you favorite team with the Green Bay Packers Inside Line IV Tee by Majestic! \n\n\n=== Features: ===\n* 100% Cotton\n* Lightweight ribbed T-shirt\n* Screen print graphics\n* Rib-knit collar\n* Machine Washable\n* Officially licensed NFL product\n* By Majestic\n\n\n=== PLEASE NOTE: ===\n* All Available Sizes take 3-14 BUSINESS (Mon-Fri) Days to produce.\n* Choosing Expedited Shipping will in no way affect the production time.\n* Listed production time is an approximation and not a guarantee. \n* Shipping times may be longer or shorter depending on order volume.\n* Image is a graphical preview of what the item will look like. \n* No changes or cancellations will be allowed once an order has been placed.\n* This Item is Considered a Customization and all Sales Final on Customized Items.",
+                    "tags": [
+                        "IS_USER3"
+                    ],
+                    "salesrank": "20140803",
+                    "app_t_shirts": "short_sleeve"
+                },
+                "_score": 1,
+                "_index": "cubworld.public",
+                "_id": "KTP2-259A-7T-AVV",
+                "_type": "product"
+            },
+            {
+                "_source": {
+                    "profile": "DEFAULT",
+                    "options": [
+                        "Select Size",
+                        "Select Size Small",
+                        "Select Size Medium",
+                        "Select Size Large",
+                        "Select Size X-Large",
+                        "Select Size XX-Large"
+                    ],
+                    "prod_mfgid": "K717-0565-7T-AWV",
+                    "app_nfl": "green_bay_packers",
+                    "zoovy:prod_supplier": "VLFSG1",
+                    "pid": "K717-0565-7T-AWV",
+                    "prod_condition": "New",
+                    "skus": [
+                        "K717-0565-7T-AWV:AB00",
+                        "K717-0565-7T-AWV:AB01",
+                        "K717-0565-7T-AWV:AB02",
+                        "K717-0565-7T-AWV:AB03",
+                        "K717-0565-7T-AWV:AB04"
+                    ],
+                    "base_price": 2995,
+                    "prod_mfg": "Majestic",
+                    "marketplaces": [
+                        "EBF_off",
+                        "SRS_off",
+                        "AMZ_off",
+                        "GOO_on",
+                        "PGR_off",
+                        "BZR_off",
+                        "SHO_off",
+                        "OAS_null",
+                        "BIN_on",
+                        "BUY_null",
+                        "BST_on",
+                        "WSH_on",
+                        "NXT_off",
+                        "APA_null",
+                        "HSN_on",
+                        "SMT_null",
+                        "BCM_null",
+                        "PTO_null",
+                        "FND_on",
+                        "DOB_null",
+                        "CJ_on",
+                        "DIJ_null",
+                        "LNK_null",
+                        "IMS_null",
+                        "IOF_null",
+                        "SAS_null",
+                        "EGG_null",
+                        "ARP_on",
+                        "US1_on",
+                        "US2_on",
+                        "US3_on",
+                        "US4_on",
+                        "US5_on",
+                        "US6_on",
+                        "AUK_on",
+                        "ACN_on",
+                        "ADE_on",
+                        "AFR_on",
+                        "AIT_on",
+                        "AJP_on",
+                        "AUK_on"
+                    ],
+                    "images": [
+                        "nfl/Green_Bay_Packers_Primary_Receiver_V_Long_Sleeve_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Primary_Receiver_V_Long_Sleeve_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Primary_Receiver_V_Long_Sleeve_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Primary_Receiver_V_Long_Sleeve_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Primary_Receiver_V_Long_Sleeve_Tee_by_Majestic_0565",
+                        "nfl/Green_Bay_Packers_Primary_Receiver_V_Long_Sleeve_Tee_by_Majestic_0565"
+                    ],
+                    "prod_name": "Green Bay Packers Primary Receiver V Long Sleeve Tee by Majestic",
+                    "app_department": "t_shirt",
+                    "in_store": "2",
+                    "pogs": [
+                        "AB",
+                        "AB00",
+                        "AB01",
+                        "AB02",
+                        "AB03",
+                        "AB04"
+                    ],
+                    "app_brands": "majestic_athletic",
+                    "amz:prod_desc": "Show who is you favorite team with the Green Bay Packers Primary Receiver V Long Sleeve Tee by Majestic!    === Features: === * 100% Cotton * Lightweight ribbed long sleeve tee * Screen print graphics * Rib-knit collar * Machine washable * Officially licensed NFL product * By Majestic",
+                    "app_prod_demographic": "men",
+                    "description": "Show who is you favorite team with the Green Bay Packers Primary Receiver V Long Sleeve Tee by Majestic! \n\n\n=== Features: ===\n* 100% Cotton\n* Lightweight ribbed long sleeve tee\n* Screen print graphics\n* Rib-knit collar\n* Machine Washable\n* Officially licensed NFL product\n* By Majestic\n\n\n=== PLEASE NOTE: ===\n* All Available Sizes take 3-14 BUSINESS (Mon-Fri) Days to produce.\n* Choosing Expedited Shipping will in no way affect the production time.\n* Listed production time is an approximation and not a guarantee. \n* Shipping times may be longer or shorter depending on order volume.\n* Image is a graphical preview of what the item will look like. \n* No changes or cancellations will be allowed once an order has been placed.\n* This Item is Considered a Customization and all Sales Final on Customized Items.",
+                    "tags": [
+                        "IS_USER3"
+                    ],
+                    "salesrank": "20140804",
+                    "app_t_shirts": "long_sleeve"
+                },
+                "_score": 1,
+                "_index": "cubworld.public",
+                "_id": "K717-0565-7T-AWV",
+                "_type": "product"
+            }
+        ],
+        "max_score": 1,
+        "total": 11
+    },
+    "timed_out": false,
+    "_rcmd": "appPublicSearch",
+    "_rtag": null,
+    "facets": {
+        "app_nfl": {
+            "other": 2085,
+            "terms": [
+                {
+                    "count": 341,
+                    "term": "chicago_bears"
+                },
+                {
+                    "count": 116,
+                    "term": "new_york_yankees"
+                },
+                {
+                    "count": 63,
+                    "term": "st._louis_cardinals"
+                },
+                {
+                    "count": 63,
+                    "term": "boston_red_sox"
+                },
+                {
+                    "count": 46,
+                    "term": "san_francisco_giants"
+                },
+                {
+                    "count": 46,
+                    "term": "new_york_giants"
+                },
+                {
+                    "count": 45,
+                    "term": "philadelphia_phillies"
+                },
+                {
+                    "count": 44,
+                    "term": "arizona_cardinals"
+                },
+                {
+                    "count": 43,
+                    "term": "new_england_patriots"
+                },
+                {
+                    "count": 42,
+                    "term": "pittsburgh_steelers"
+                }
+            ],
+            "missing": 27694,
+            "_type": "terms",
+            "total": 2934
+        },
+        "app_t_shirts": {
+            "other": 3,
+            "terms": [
+                {
+                    "count": 14688,
+                    "term": " "
+                },
+                {
+                    "count": 3611,
+                    "term": "player"
+                },
+                {
+                    "count": 859,
+                    "term": "short_sleeve"
+                },
+                {
+                    "count": 344,
+                    "term": "long_sleeve"
+                },
+                {
+                    "count": 189,
+                    "term": "0"
+                },
+                {
+                    "count": 106,
+                    "term": "customized"
+                },
+                {
+                    "count": 63,
+                    "term": "#n/a"
+                },
+                {
+                    "count": 53,
+                    "term": "tank_top"
+                },
+                {
+                    "count": 10,
+                    "term": "empty"
+                },
+                {
+                    "count": 2,
+                    "term": "blank"
+                }
+            ],
+            "missing": 10700,
+            "_type": "terms",
+            "total": 19928
+        },
+        "app_brands": {
+            "other": 2272,
+            "terms": [
+                {
+                    "count": 20660,
+                    "term": "majestic_athletic"
+                },
+                {
+                    "count": 1256,
+                    "term": "fan_mats"
+                },
+                {
+                    "count": 895,
+                    "term": "thats_my_ticket"
+                },
+                {
+                    "count": 850,
+                    "term": "nike"
+                },
+                {
+                    "count": 819,
+                    "term": "47_brand"
+                },
+                {
+                    "count": 812,
+                    "term": "cufflinks_inc"
+                },
+                {
+                    "count": 735,
+                    "term": "imperial_international"
+                },
+                {
+                    "count": 638,
+                    "term": "team_golf"
+                },
+                {
+                    "count": 311,
+                    "term": "new_era"
+                },
+                {
+                    "count": 287,
+                    "term": "reebok"
+                }
+            ],
+            "missing": 1093,
+            "_type": "terms",
+            "total": 29535
+        },
+        "app_prod_demographic": {
+            "other": 0,
+            "terms": [
+                {
+                    "count": 17804,
+                    "term": "men"
+                },
+                {
+                    "count": 3520,
+                    "term": "women"
+                },
+                {
+                    "count": 1860,
+                    "term": "kids"
+                },
+                {
+                    "count": 63,
+                    "term": "#n/a"
+                },
+                {
+                    "count": 5,
+                    "term": "ladies"
+                },
+                {
+                    "count": 2,
+                    "term": "youth"
+                },
+                {
+                    "count": 2,
+                    "term": "newborn"
+                },
+                {
+                    "count": 1,
+                    "term": "chicago_cubs"
+                }
+            ],
+            "missing": 7371,
+            "_type": "terms",
+            "total": 23257
+        }
+    }
+}

@@ -1,0 +1,27 @@
+<div class='container'>
+	<section class='row'>
+		<div class='col-xs-12'>
+			<h1>Cart Contents</h1>
+			<h2>cartid: {{cartDetail.cart.cartid}}</h2>
+		</div>
+	</section>
+	<section  class='row flex-container' >
+
+		<div class='col-xs-12 col-sm-6 pull-left'>
+		<h2>Cart Contents</h2>
+			<div ng-repeat="item in cartDetail['@ITEMS']" class='row'>
+				<div class='col-xs-3'><!-- img src="http://www.sportsworldchicago.com/media/img/cubworld/W310-H310-Bffffff/{{item['%attribs']['zoovy:prod_image1']}}" class='img-responsive' / --></div>
+				<div class='col-xs-9'>
+				{{item.prod_name}}
+				
+				</div>
+			</div>
+		</div>
+
+		<div class='col-xs-12 col-sm-6 pull-right'>
+		<h2>Summary</h2>
+		Total: {{cartDetail.sum.items_total}}
+		</div>
+
+	</section>
+</div>

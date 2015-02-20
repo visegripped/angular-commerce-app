@@ -1,0 +1,26 @@
+<div class='row'>
+
+<section class='col-xs-12 col-sm-3 col-lg-2'>
+FILTERING:
+<form>
+
+<div ng-repeat="(facet,val) in results.facets">
+{{facet}}
+	<ul ng-repeat="facets in val.terms">
+		<li>{{facets.term}} ({{facets.count}})</li>
+	</ul>
+</div>
+
+</form>
+</section>
+
+<section  class='col-xs-12 col-sm-9 col-lg-10 flex-container' >
+	<div ng-repeat="product in results.hits.hits" class='product-list-item col-xs-6 col-sm-3'>
+	<img src="http://www.sportsworldchicago.com/media/img/cubworld/W310-H310-Bffffff/{{product._source.images[0]}}" class='img-responsive' />
+	<h6>{{product._source.prod_name}}</h6>
+	<a href='#/product/{{product._source.pid}}' class='btn btn-primary'>Details</a>
+	</div>
+</section>
+</div>
+
+
